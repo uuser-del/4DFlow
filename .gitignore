@@ -1,0 +1,44 @@
+# 忽略所有文件夹
+__pycache__/
+zm/
+mm_3d_models/
+zhangyaozhong/
+dh/
+4D flow血流数据/
+zhoushaofeng/
+point_cloud_data/
+mm_2d_slices/
+zhou150text/
+S0/
+quan/
+
+# Python 相关
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE 相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
